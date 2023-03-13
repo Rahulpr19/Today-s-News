@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+.navbar{
+    background: blue;
+}
+
+.row{
+    margin: 0;
+}
+
+.select-option label{
+    font-weight: 551;
+    font-size: 21px;
+}
+
+
+
+
